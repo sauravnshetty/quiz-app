@@ -17,6 +17,7 @@ public class FileHandler {
         count = 0;
     }
 
+    public static int getCount() { return count; }
 
     public String getFilename() {
         return filename;

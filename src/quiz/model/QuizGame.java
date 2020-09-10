@@ -4,7 +4,7 @@ import java.util.*;
 
 public class QuizGame {
 
-    private static final int NO_OF_QUESTIONS = 10;
+    private static final int MAX_QUESTIONS = 10;
     private List<QuizQuestion> questionList;
     private int countQuestions, index;
 
@@ -12,7 +12,7 @@ public class QuizGame {
 
     private static void log(String s) { if(LOG) System.out.println(s); }
 
-    public static int getNoOfQuestions() { return NO_OF_QUESTIONS; }
+    public static int getNoOfQuestions() { return MAX_QUESTIONS; }
 
     public QuizGame() {
 
@@ -23,7 +23,7 @@ public class QuizGame {
 
     public boolean addQuestion(QuizQuestion ques) {
 
-        if(countQuestions < NO_OF_QUESTIONS)
+        if(countQuestions < MAX_QUESTIONS)
             questionList.add(ques);
         else
             return false;
@@ -32,6 +32,10 @@ public class QuizGame {
         log("countQuestions value = " + Integer.toString(countQuestions));
 
         return true;
+    }
+
+    public int getCountQuestions() {
+        return countQuestions;
     }
 
     public QuizQuestion getQuestion() {
@@ -50,7 +54,7 @@ public class QuizGame {
     }
 
     public boolean isGameOver() {
-        if(index < NO_OF_QUESTIONS - 1)
+        if(index < countQuestions - 1)
             return false;
         else
             return true;

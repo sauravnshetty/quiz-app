@@ -176,8 +176,9 @@ public class MainController extends Application {
 
     public void showResultView() {
 
-        title = "Your score is " + score + " out of " + QuizGame.getNoOfQuestions() ;
-        switch (score) {
+        title = "Your score is " + score + " out of " + quizGame.getCountQuestions() ;
+        int points = (int)score * QuizGame.getNoOfQuestions() / quizGame.getCountQuestions();
+        switch (points) {
             case 0:
             case 1:
             case 2: message = "You're a Tier 3 weeb";
