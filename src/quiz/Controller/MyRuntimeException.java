@@ -10,7 +10,7 @@ public class MyRuntimeException extends RuntimeException {
 
         Alert alert = new Alert(Alert.AlertType.WARNING);
         alert.setTitle("Warning");
-        alert.setHeaderText("Task Failed Successfully");
+        alert.setHeaderText("Error!!!");
         alert.setContentText(msg);
         alert.showAndWait();
     }

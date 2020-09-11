@@ -6,9 +6,8 @@ import javafx.scene.layout.AnchorPane;
 import javafx.scene.layout.BorderPane;
 import javafx.stage.Modality;
 import javafx.stage.Stage;
-import quiz.model.QuizQuestion;
-import quiz.view.AddQuestionsController;
-import quiz.view.CheckPasswordController;
+import quiz.View.AddQuestionsController;
+import quiz.View.CheckPasswordController;
 
 import java.io.File;
 
@@ -27,8 +26,8 @@ public class AdminWindow {
         try {
             adminWindow = new Stage();
             adminWindow.initModality(Modality.APPLICATION_MODAL);
-            FXMLLoader loader = new FXMLLoader(new File("/Users/saurav/IdeaProjects/QuizApp/src/quiz/view/CheckPassword.fxml").toURI().toURL());
-            //loader.setLocation(AdminWindow.class.getResource("quiz/view/AddQuestions.fxml"));
+            FXMLLoader loader = new FXMLLoader(new File("/Users/saurav/IdeaProjects/QuizApp/src/quiz/View/CheckPassword.fxml").toURI().toURL());
+            //loader.setLocation(AdminWindow.class.getResource("quiz/View/AddQuestions.fxml"));
             passRoot = loader.load();
             chkpsd = loader.getController();
             chkpsd.setPassword(password);
@@ -45,8 +44,8 @@ public class AdminWindow {
     public static void setAddQuestions() {
 
         try {
-            FXMLLoader loader = new FXMLLoader(new File("/Users/saurav/IdeaProjects/QuizApp/src/quiz/view/AddQuestions.fxml").toURI().toURL());
-            //loader.setLocation(AdminWindow.class.getResource("quiz/view/AddQuestions.fxml"));
+            FXMLLoader loader = new FXMLLoader(new File("/Users/saurav/IdeaProjects/QuizApp/src/quiz/View/AddQuestions.fxml").toURI().toURL());
+            //loader.setLocation(AdminWindow.class.getResource("quiz/View/AddQuestions.fxml"));
             addquesRoot = loader.load();
             addQues = loader.getController();
             addQues.setMainApp(parent);

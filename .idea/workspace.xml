@@ -2,15 +2,55 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="QuizApp" />
-      <artifact name="QuizApp:jar" />
+      <artifact name="QuizApp:jar2" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/QuizApp2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/QuizApp_jar2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizApp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/QuizApp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/count.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/QuizApp_jar/QuizApp.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/QuizApp_jar/QuizApp.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/QuizApp/quiz/Controller/AdminWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/QuizApp/quiz/Controller/AdminWindow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/QuizApp/quiz/Controller/MainController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/QuizApp/quiz/Controller/MainController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/QuizApp/quiz/Controller/MyRuntimeException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/QuizApp/quiz/Controller/MyRuntimeException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/QuizApp/quiz/model/FileHandler$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/QuizApp/quiz/model/FileHandler$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/QuizApp/quiz/model/FileHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/QuizApp/quiz/model/FileHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/QuizApp/quiz/model/QuizGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/QuizApp/quiz/model/QuizGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/QuizApp/quiz/model/QuizQuestion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/QuizApp/quiz/model/QuizQuestion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/QuizApp/quiz/view/AddQuestions.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/QuizApp/quiz/view/AddQuestions.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/QuizApp/quiz/view/AddQuestionsController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/QuizApp/quiz/view/AddQuestionsController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/QuizApp/quiz/view/CheckPassword.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/QuizApp/quiz/view/CheckPassword.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/QuizApp/quiz/view/CheckPasswordController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/QuizApp/quiz/view/CheckPasswordController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/QuizApp/quiz/view/FirstView.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/QuizApp/quiz/view/FirstView.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/QuizApp/quiz/view/FirstViewController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/QuizApp/quiz/view/FirstViewController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/QuizApp/quiz/view/InfoView.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/QuizApp/quiz/view/InfoView.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/QuizApp/quiz/view/InfoViewController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/QuizApp/quiz/view/InfoViewController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/QuizApp/quiz/view/Menu.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/QuizApp/quiz/view/Menu.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/QuizApp/quiz/view/MenuController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/QuizApp/quiz/view/MenuController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/QuizApp/quiz/view/QuizView.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/QuizApp/quiz/view/QuizView.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/QuizApp/quiz/view/QuizViewController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/QuizApp/quiz/view/QuizViewController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quizQuestions.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/quiz/Controller/AdminWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quiz/Controller/AdminWindow.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/quiz/Controller/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quiz/Controller/MainController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/quiz/model/FileHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quiz/model/FileHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/quiz/model/QuizGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quiz/model/QuizGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/quiz/Controller/MyRuntimeException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quiz/Controller/MyRuntimeException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/quiz/model/FileHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quiz/Model/FileHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/quiz/model/QuizGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quiz/Model/QuizGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/quiz/model/QuizQuestion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quiz/Model/QuizQuestion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/quiz/view/AddQuestions.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/quiz/View/AddQuestions.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/quiz/view/AddQuestionsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quiz/View/AddQuestionsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/quiz/view/CheckPassword.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/quiz/View/CheckPassword.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/quiz/view/CheckPasswordController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quiz/View/CheckPasswordController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/quiz/view/FirstView.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/quiz/View/FirstView.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/quiz/view/FirstViewController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quiz/View/FirstViewController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/quiz/view/InfoView.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/quiz/View/InfoView.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/quiz/view/InfoViewController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quiz/View/InfoViewController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/quiz/view/Menu.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/quiz/View/Menu.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/quiz/view/MenuController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quiz/View/MenuController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/quiz/view/QuizView.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/quiz/View/QuizView.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/quiz/view/QuizViewController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quiz/View/QuizViewController.java" afterDir="false" />
     </list>
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -70,20 +110,42 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/quiz/Controller/MainController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="427">
-              <caret line="180" column="22" selection-start-line="180" selection-start-column="22" selection-end-line="180" selection-end-column="22" />
+            <state relative-caret-position="191">
+              <caret line="122" column="31" selection-start-line="122" selection-start-column="31" selection-end-line="122" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/quiz/model/QuizQuestion.java">
+        <entry file="file://$PROJECT_DIR$/src/quiz/View/FirstViewController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="38" column="38" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="38" />
+            <state relative-caret-position="394">
+              <caret line="47" column="16" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/quiz/View/FirstView.fxml">
+          <provider editor-type-id="JavaFX-Scene-Builder" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="63" column="81" selection-start-line="63" selection-start-column="81" selection-end-line="63" selection-end-column="81" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/quiz/Model/QuizQuestion.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
               <folding>
                 <element signature="e#782#783#0" expanded="true" />
                 <element signature="e#849#850#0" expanded="true" />
@@ -95,17 +157,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/quiz/Controller/AdminWindow.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/quiz/view/CheckPasswordController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="4" selection-start-column="4" selection-end-column="4" />
+            <state relative-caret-position="62">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -114,24 +167,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/quiz/view/InfoViewController.java">
+        <entry file="file://$PROJECT_DIR$/src/quiz/Controller/MyRuntimeException.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="23" column="77" selection-start-line="23" selection-start-column="77" selection-end-line="23" selection-end-column="77" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1481#1482#0" expanded="true" />
-                <element signature="e#1524#1525#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="228">
+              <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/quiz/model/FileHandler.java">
+        <entry file="file://$PROJECT_DIR$/src/quiz/View/AddQuestionsController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="93" column="49" selection-start-line="93" selection-start-column="49" selection-end-line="93" selection-end-column="49" />
+            <state relative-caret-position="288">
+              <caret line="39" column="16" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -140,26 +188,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/quiz/view/QuizViewController.java">
+        <entry file="file://$PROJECT_DIR$/src/quiz/Model/FileHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
-              <caret line="61" column="14" lean-forward="true" selection-start-line="61" selection-start-column="14" selection-end-line="61" selection-end-column="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#568#569#0" expanded="true" />
-                <element signature="e#614#615#0" expanded="true" />
-                <element signature="e#930#931#0" expanded="true" />
-                <element signature="e#968#969#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/quiz/view/MenuController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+            <state relative-caret-position="1064">
+              <caret line="58" column="29" lean-forward="true" selection-start-line="58" selection-start-column="29" selection-end-line="58" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -167,20 +199,15 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/quiz/view/Menu.fxml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="97" selection-start-line="18" selection-start-column="97" selection-end-line="18" selection-end-column="97" />
-            </state>
-          </provider>
-          <provider editor-type-id="JavaFX-Scene-Builder" />
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/runquiz.sh">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/quiz/model/QuizGame.java">
+        <entry file="file://$PROJECT_DIR$/src/quiz/Model/QuizGame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="433">
+            <state relative-caret-position="703">
               <caret line="37" column="8" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="30" />
               <folding>
                 <element signature="e#883#884#0" expanded="true" />
@@ -232,13 +259,10 @@
         <option value="$PROJECT_DIR$/src/module-info.java" />
         <option value="$PROJECT_DIR$/src/quiz/view/AddQuestionsController.java" />
         <option value="$PROJECT_DIR$/src/quiz/view/QuizView.fxml" />
-        <option value="$PROJECT_DIR$/src/quiz/model/QuizQuestion.java" />
         <option value="$PROJECT_DIR$/src/quiz/view/QuizViewController.java" />
         <option value="$PROJECT_DIR$/src/quiz/view/CheckPassword.fxml" />
         <option value="$PROJECT_DIR$/src/quiz/view/CheckPasswordController.java" />
         <option value="$PROJECT_DIR$/src/quiz/view/InfoView.fxml" />
-        <option value="$PROJECT_DIR$/src/quiz/view/FirstView.fxml" />
-        <option value="$PROJECT_DIR$/src/quiz/Controller/MyRuntimeException.java" />
         <option value="$PROJECT_DIR$/src/quiz/Controller/AdminWindow.java" />
         <option value="$PROJECT_DIR$/src/quiz/view/Menu.fxml" />
         <option value="$PROJECT_DIR$/src/quiz/view/FirstViewController.java" />
@@ -246,19 +270,15 @@
         <option value="$PROJECT_DIR$/src/quiz/view/InfoViewController.java" />
         <option value="$PROJECT_DIR$/src/quiz/model/FileHandler.java" />
         <option value="$PROJECT_DIR$/src/quiz/model/QuizGame.java" />
+        <option value="$PROJECT_DIR$/src/quiz/model/QuizQuestion.java" />
+        <option value="$PROJECT_DIR$/src/quiz/Controller/MyRuntimeException.java" />
         <option value="$PROJECT_DIR$/src/quiz/Controller/MainController.java" />
+        <option value="$PROJECT_DIR$/src/quiz/view/FirstView.fxml" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/artifacts/QuizApp.xml" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -271,7 +291,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -288,7 +307,7 @@
               <item name="QuizApp" type="b2602c69:ProjectViewProjectNode" />
               <item name="QuizApp" type="462c0819:PsiDirectoryNode" />
               <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="QuizApp" type="b2602c69:ProjectViewProjectNode" />
@@ -313,14 +332,14 @@
               <item name="QuizApp" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="quiz" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="Model" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="QuizApp" type="b2602c69:ProjectViewProjectNode" />
               <item name="QuizApp" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="quiz" type="462c0819:PsiDirectoryNode" />
-              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="View" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="QuizApp" type="b2602c69:ProjectViewProjectNode" />
@@ -331,6 +350,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -344,7 +364,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dynamic.classpath" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/resource" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.2025" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -499,7 +519,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.22317597" />
+      <window_info active="true" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.22603719" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" weight="0.3297568" />
       <window_info id="Designer" order="3" />
@@ -508,7 +528,7 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25301206" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.25301206" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -581,13 +601,6 @@
     <entry file="file://$PROJECT_DIR$/src/sample/sample.fxml" />
     <entry file="file://$PROJECT_DIR$/src/sample/Controller.java" />
     <entry file="file://$PROJECT_DIR$/src/sample/Main.java" />
-    <entry file="file://$PROJECT_DIR$/QuizApp.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/resource/model/QuizQuestion.java" />
     <entry file="file://$PROJECT_DIR$/src/resource/view/AddQuestions.fxml" />
     <entry file="file://$PROJECT_DIR$/src/resource/view/Menu.fxml" />
@@ -604,148 +617,45 @@
         <state relative-caret-position="-10398" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/quiz/view/QuizView.fxml">
+    <entry file="file://$PROJECT_DIR$/src/quiz/View/QuizView.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
         </state>
       </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/quiz/view/CheckPassword.fxml">
+    <entry file="file://$PROJECT_DIR$/src/quiz/View/CheckPassword.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/quiz/View/AddQuestions.fxml">
       <provider editor-type-id="JavaFX-Scene-Builder" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/quiz/view/FirstView.fxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="63" column="81" selection-start-line="63" selection-start-column="81" selection-end-line="63" selection-end-column="81" />
-        </state>
-      </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/quiz/view/AddQuestionsController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="745">
-          <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/quiz/view/AddQuestions.fxml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="60" column="55" selection-start-line="60" selection-start-column="55" selection-end-line="60" selection-end-column="55" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/quiz/View/InfoView.fxml">
       <provider editor-type-id="JavaFX-Scene-Builder" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/quiz/Controller/MyRuntimeException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="24" selection-start-column="24" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/quiz/view/InfoView.fxml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="20" column="63" selection-start-line="20" selection-start-column="63" selection-end-line="20" selection-end-column="63" />
         </state>
       </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/quiz/view/FirstViewController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/quiz/view/InfoViewController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="23" column="77" selection-start-line="23" selection-start-column="77" selection-end-line="23" selection-end-column="77" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1481#1482#0" expanded="true" />
-            <element signature="e#1524#1525#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/quiz/view/Menu.fxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="97" selection-start-line="18" selection-start-column="97" selection-end-line="18" selection-end-column="97" />
-        </state>
-      </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder" />
     </entry>
     <entry file="file://$PROJECT_DIR$/count.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/quiz/view/CheckPasswordController.java">
+    <entry file="file://$PROJECT_DIR$/src/quiz/View/QuizViewController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="4" selection-start-column="4" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/quiz/view/MenuController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/quiz/Controller/AdminWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/quiz/model/FileHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="93" column="49" selection-start-line="93" selection-start-column="49" selection-end-line="93" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/quiz/model/QuizQuestion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="38" column="38" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="38" />
-          <folding>
-            <element signature="e#782#783#0" expanded="true" />
-            <element signature="e#849#850#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/quiz/view/QuizViewController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="61" column="14" lean-forward="true" selection-start-line="61" selection-start-column="14" selection-end-line="61" selection-end-column="14" />
+        <state relative-caret-position="1026">
+          <caret line="61" column="14" selection-start-line="61" selection-start-column="14" selection-end-line="61" selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#568#569#0" expanded="true" />
@@ -756,9 +666,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/quiz/model/QuizGame.java">
+    <entry file="file://$PROJECT_DIR$/src/quiz/View/MenuController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
+        <state relative-caret-position="361">
+          <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/quiz/View/Menu.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="97" selection-start-line="18" selection-start-column="97" selection-end-line="18" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/quiz/View/InfoViewController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="77" selection-start-line="22" selection-start-column="77" selection-end-line="22" selection-end-column="77" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1481#1482#0" expanded="true" />
+            <element signature="e#1524#1525#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/quiz/View/CheckPasswordController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/quiz/Model/QuizGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
           <caret line="37" column="8" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="30" />
           <folding>
             <element signature="e#883#884#0" expanded="true" />
@@ -767,12 +717,95 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/quiz/Controller/MainController.java">
+    <entry file="file://$PROJECT_DIR$/src/quiz/Model/QuizQuestion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="180" column="22" selection-start-line="180" selection-start-column="22" selection-end-line="180" selection-end-column="22" />
+        <state relative-caret-position="399">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="e#782#783#0" expanded="true" />
+            <element signature="e#849#850#0" expanded="true" />
+          </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/quiz/Controller/MyRuntimeException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/quiz/Controller/AdminWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QuizApp.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/quiz/Controller/MainController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="122" column="31" selection-start-line="122" selection-start-column="31" selection-end-line="122" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/quiz/View/FirstViewController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="47" column="16" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/quiz/View/FirstView.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="63" column="81" selection-start-line="63" selection-start-column="81" selection-end-line="63" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/quiz/View/AddQuestionsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="39" column="16" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/quiz/Model/FileHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1064">
+          <caret line="58" column="29" lean-forward="true" selection-start-line="58" selection-start-column="29" selection-end-line="58" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runquiz.sh">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
@@ -780,11 +813,12 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>QuizApp:jar</last-edited>
+          <last-edited>QuizApp2</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -833,6 +867,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

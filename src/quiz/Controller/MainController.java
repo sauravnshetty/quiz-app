@@ -6,13 +6,13 @@ import javafx.scene.Scene;
 import javafx.scene.layout.AnchorPane;
 import javafx.scene.layout.BorderPane;
 import javafx.stage.Stage;
-import quiz.model.FileHandler;
-import quiz.model.QuizGame;
-import quiz.model.QuizQuestion;
-import quiz.view.FirstViewController;
-import quiz.view.InfoViewController;
-import quiz.view.MenuController;
-import quiz.view.QuizViewController;
+import quiz.Model.FileHandler;
+import quiz.Model.QuizGame;
+import quiz.Model.QuizQuestion;
+import quiz.View.FirstViewController;
+import quiz.View.InfoViewController;
+import quiz.View.MenuController;
+import quiz.View.QuizViewController;
 import java.io.File;
 import java.io.IOException;
 
@@ -61,11 +61,11 @@ public class MainController extends Application {
     private void initRootLayout() {
 
         try {
-            FXMLLoader loader = new FXMLLoader(new File("/Users/saurav/IdeaProjects/QuizApp/src/quiz/view/Menu.fxml").toURI().toURL());
-            //URL location = getClass().getResource("quiz.view/Menu.fxml");
+            FXMLLoader loader = new FXMLLoader(new File("/Users/saurav/IdeaProjects/QuizApp/src/quiz/View/Menu.fxml").toURI().toURL());
+            //URL location = getClass().getResource("quiz.View/Menu.fxml");
             //System.out.println(location);
             //System.out.println("Hello world");
-            //loader.setLocation(MainController.class.getResource("quiz/view/Menu.fxml"));
+            //loader.setLocation(MainController.class.getResource("quiz/View/Menu.fxml"));
             rootLayout = loader.load();
             Scene scene = new Scene(rootLayout);
             menu = loader.getController();
@@ -81,7 +81,7 @@ public class MainController extends Application {
     public void showFirstView() {
 
         try {
-            FXMLLoader loader = new FXMLLoader(new File("/Users/saurav/IdeaProjects/QuizApp/src/quiz/view/FirstView.fxml").toURI().toURL());
+            FXMLLoader loader = new FXMLLoader(new File("/Users/saurav/IdeaProjects/QuizApp/src/quiz/View/FirstView.fxml").toURI().toURL());
             AnchorPane layout = loader.load();
             rootLayout.setCenter(layout);
             firstView = loader.getController();
@@ -97,7 +97,7 @@ public class MainController extends Application {
     public void showInfoView(boolean defaultInfo) {
 
         try{
-            FXMLLoader loader = new FXMLLoader(new File("/Users/saurav/IdeaProjects/QuizApp/src/quiz/view/InfoView.fxml").toURI().toURL());
+            FXMLLoader loader = new FXMLLoader(new File("/Users/saurav/IdeaProjects/QuizApp/src/quiz/View/InfoView.fxml").toURI().toURL());
             BorderPane layout = loader.load();
             rootLayout.setCenter(layout);
             infoView = loader.getController();
@@ -132,7 +132,7 @@ public class MainController extends Application {
     public void loadQuizView() {
 
         try{
-            FXMLLoader loader = new FXMLLoader(new File("/Users/saurav/IdeaProjects/QuizApp/src/quiz/view/QuizView.fxml").toURI().toURL());
+            FXMLLoader loader = new FXMLLoader(new File("/Users/saurav/IdeaProjects/QuizApp/src/quiz/View/QuizView.fxml").toURI().toURL());
             BorderPane layout = loader.load();
             rootLayout.setCenter(layout);
             quizView = loader.getController();
@@ -196,7 +196,7 @@ public class MainController extends Application {
                      break;
         }
         try {
-            FXMLLoader loader = new FXMLLoader(new File("/Users/saurav/IdeaProjects/QuizApp/src/quiz/view/FirstView.fxml").toURI().toURL());
+            FXMLLoader loader = new FXMLLoader(new File("/Users/saurav/IdeaProjects/QuizApp/src/quiz/View/FirstView.fxml").toURI().toURL());
             AnchorPane layout = loader.load();
             rootLayout.setCenter(layout);
             resultView = loader.getController();
