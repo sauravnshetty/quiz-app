@@ -52,3 +52,4 @@ JavaFX 8 or above (personally used JavaFX 11) and any IDE with JavaFX libraries.
 ***Note :*** I'm having trouble converting the jar file to an executable file, even the jar file didn't run on my mac.
 I found a different solution to this, just run the jar file in the command line using the required modules. I have created 
 a .sh file to run the application which will work on mac and linux. (Batch file could be used with the same command in windows)
+Replace the path to lib folder of javafx and the path to the jar file with the path in your pc.
